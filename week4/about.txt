@@ -1,0 +1,4 @@
+
+Contains the python code for the exercises 3.1 and 3.2
+3.1 Multiclassification of hand written digits using regularized logistic regression
+3.2 Simple Neural Network for reconizing hand written digits
